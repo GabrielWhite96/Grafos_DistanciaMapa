@@ -1,0 +1,15 @@
+6
+7
+Sao_Paulo
+Rio_de_Janeiro
+Santos
+Salvador
+Belo_Horizonte
+Curitiba
+0 1 434 
+0 2 85
+0 4 592
+0 5 403
+1 4 441
+1 2 512
+3 4 1350
